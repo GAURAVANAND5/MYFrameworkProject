@@ -24,7 +24,7 @@
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>7.4.0</version>
-    <scope>test</scope>
+    <scope>compile</scope>
 </dependency>
 
        <dependency>
@@ -44,12 +44,7 @@
     <version>8.0.27</version>
 </dependency>
 
-<dependency>
-    <groupId>org.testng</groupId>
-    <artifactId>testng</artifactId>
-    <version>7.1.0</version>
-    <scope>test</scope>
-</dependency>
+
 
 		
   
